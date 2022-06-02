@@ -8,7 +8,8 @@ from time import sleep
 class Unindo:
     
     def pegando_interface():
-        
+
+        PySimpleGUI.theme("DarkGrey3")
         layout = Interface.imagem_calculadora()
         
         # Set PySimpleGUI
