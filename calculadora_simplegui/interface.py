@@ -1,5 +1,4 @@
 # Import Module
-from turtle import left
 from PySimpleGUI import *
 
 class Interface:
