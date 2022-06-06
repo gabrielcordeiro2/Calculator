@@ -1,4 +1,3 @@
-from tkinter import ANCHOR
 from PySimpleGUI import *
 from interface import Interface
 from operacoes import Calculator
